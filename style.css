@@ -281,7 +281,7 @@ section {
 
 .about-containers,
 .about-details-container {
-    border-radius: 2rem;
+    display: flex;
 }
 
 .about-pic {
